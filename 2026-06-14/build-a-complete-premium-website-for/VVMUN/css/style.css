@@ -736,6 +736,19 @@ p {
   opacity: 1;
   transform: translateY(0);
 }
+.creator-credit {
+  text-align: center;
+  padding: 20px;
+  font-family: var(--body);
+  font-size: 14px;
+  color: var(--primary);
+  margin-top: 20px;
+  font-weight: 600;
+}
+
+.creator-credit strong {
+  color: var(--navy);
+}
 
 @media (max-width: 900px) {
   .nav-toggle {

@@ -126,13 +126,13 @@ function renderCommitteePage() {
       </div>
       <div class="eb-grid">
         ${members.length ? members.map((member) => `
-          <article class="eb-card reveal">
-            <img src="${member.photo}" alt="${member.name}">
-            <h3>${member.name}</h3>
-            <p>${member.position}</p>
-            <a class="btn ghost" href="eb.html?id=${member.id}">View Profile</a>
-          </article>
-        `).join("") : `<p class="empty-state">Executive Board to be announced.</p>`}
+  <article class="eb-card reveal">
+    <img src="${member.photo}" alt="${member.name}">
+    <h3>${member.name}</h3>
+    <p>${member.position}</p>
+    <a class="btn ghost" href="eb.html?id=${member.id}">View Profile</a>
+  </article>
+`).join("") : ``}
       </div>
     </section>
   `;
