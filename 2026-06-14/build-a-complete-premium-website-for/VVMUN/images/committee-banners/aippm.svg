@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#2B1300"/>
+  <g fill="#8B3E00"><path d="M0 455h1200v305H0z"/><path d="M0 0h1200v205H0z" opacity=".74"/></g>
+  <g fill="none" stroke="#D9B382" stroke-width="5" opacity=".55">
+    <path d="M210 520h780M260 520V300l340-130 340 130v220"/>
+    <path d="M330 520V342M450 520V342M570 520V342M690 520V342M810 520V342"/>
+    <path d="M250 300h700"/>
+  </g>
+  <text x="72" y="116" fill="#D9B382" font-family="Georgia, serif" font-size="58" font-weight="700">AIPPM</text>
+  <text x="72" y="185" fill="#FFF5E6" font-family="Arial, sans-serif" font-size="30">Electoral Reform and Federal Balance</text>
+</svg>

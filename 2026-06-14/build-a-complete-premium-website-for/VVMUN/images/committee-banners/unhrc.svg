@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#2B1300"/>
+  <path d="M0 620C220 540 330 650 520 560s340-250 680-160v360H0z" fill="#8B3E00"/>
+  <path d="M0 660c260-120 410 40 650-78 183-89 287-233 550-176" fill="none" stroke="#D9B382" stroke-width="10" opacity=".62"/>
+  <g fill="none" stroke="#FFF5E6" stroke-width="5" opacity=".26">
+    <path d="M390 305c0-88 71-159 159-159s159 71 159 159-71 159-159 159-159-71-159-159z"/>
+    <path d="M549 146v318M390 305h318M430 210c80 55 159 55 238 0M430 400c80-55 159-55 238 0"/>
+  </g>
+  <text x="72" y="116" fill="#D9B382" font-family="Georgia, serif" font-size="58" font-weight="700">UNHRC</text>
+  <text x="72" y="185" fill="#FFF5E6" font-family="Arial, sans-serif" font-size="30">Human Rights in Conflict Zones</text>
+</svg>

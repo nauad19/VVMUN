@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#FFF5E6"/>
+  <rect width="1200" height="760" fill="#8B3E00" opacity=".88"/>
+  <g fill="none" stroke="#D9B382" stroke-width="4" opacity=".52">
+    <path d="M226 574 598 202l372 372"/>
+    <path d="M308 574 598 284l290 290"/>
+    <path d="M598 202v430M380 410h436"/>
+  </g>
+  <g fill="#FFF5E6" opacity=".16">
+    <circle cx="250" cy="180" r="90"/><circle cx="1010" cy="570" r="130"/>
+  </g>
+  <text x="72" y="116" fill="#D9B382" font-family="Georgia, serif" font-size="58" font-weight="700">DISEC</text>
+  <text x="72" y="185" fill="#FFF5E6" font-family="Arial, sans-serif" font-size="30">Autonomous Weapons Regulation</text>
+</svg>

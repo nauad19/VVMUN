@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#FFF5E6"/>
+  <rect width="1200" height="760" fill="#2B1300" opacity=".86"/>
+  <circle cx="608" cy="405" r="190" fill="none" stroke="#D9B382" stroke-width="12" opacity=".7"/>
+  <path d="M608 246v318M449 405h318" stroke="#FFF5E6" stroke-width="34" stroke-linecap="round" opacity=".55"/>
+  <path d="M210 605c160-90 310-90 450 0s250 90 330 0" fill="none" stroke="#8B3E00" stroke-width="28" opacity=".9"/>
+  <text x="72" y="116" fill="#D9B382" font-family="Georgia, serif" font-size="58" font-weight="700">WHO</text>
+  <text x="72" y="185" fill="#FFF5E6" font-family="Arial, sans-serif" font-size="30">Pandemic Preparedness</text>
+</svg>

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Vikram Vichar Model United Nations - Discuss, Debate, Deliberate, Drive.">
+  <title>VVMUN | Vikram Vichar Model United Nations</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css?v=7">
+</head>
+<body>
+  <div class="loader" id="loader" aria-label="Loading VVMUN">
+    <img src="images/vvmun-logo.png" alt="VVMUN Logo">
+    <span>VVMUN</span>
+  </div>
+
+  <nav class="navbar" aria-label="Primary navigation">
+    <a href="index.html" class="brand" aria-label="VVMUN home">
+      <img id="navLogo" src="images/vvmun-logo.png" alt="VVMUN Logo">
+      <span>VVMUN</span>
+    </a>
+    <button class="nav-toggle" id="navToggle" aria-label="Open menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+    <div class="nav-links" id="navLinks">
+      <a href="index.html">Home</a>
+      <a href="#committees">Committees</a>
+      <a href="schedule.html">Schedule</a>
+      <a href="contact.html">Contact</a>
+    </div>
+  </nav>
+
+  <main>
+    <section class="hero full-screen" id="home">
+      <div class="heritage-frame"></div>
+      <div class="hero-content reveal">
+        <img class="hero-logo" src="images/vvmun-logo.png" alt="Vikram Vichar Model United Nations Logo">
+        <p class="eyebrow">26 • 27 • 28 June</p>
+        <h1><span>Vikram Vichar</span> Model United Nations</h1>
+        <p class="tagline">Discuss • Debate • Deliberate • Drive</p>
+        <a class="btn primary" href="#committees">Explore Committees</a>
+      </div>
+    </section>
+
+    <section class="section about-section" id="about">
+      <div class="section-grid">
+        <div class="section-kicker reveal">About the Conference</div>
+        <div class="reveal">
+          <h2>A forum for reasoned diplomacy and fearless civic imagination.</h2>
+          <p>Vikram Vichar Model United Nations brings together young delegates for three days of substantive debate, negotiation, policy drafting, and persuasive leadership. Built on the values of intellectual discipline and public service, VVMUN is designed to help participants understand international relations, constitutional thought, and the art of consensus.</p>
+          <p>From security crises to public health, parliamentary politics to disarmament, every committee is crafted to reward preparation, clarity, collaboration, and the courage to think beyond predictable positions.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section committees-section" id="committees">
+      <div class="section-heading reveal">
+        <p class="section-kicker">Committees</p>
+        <h2>Choose your council of consequence.</h2>
+        <input class="search-input" id="committeeSearch" type="search" placeholder="Search committees or agendas..." aria-label="Search committees">
+      </div>
+      <div class="card-grid" id="committeeCards"></div>
+    </section>
+
+    <section class="section message-section">
+      <div class="message-panel reveal">
+        <p class="section-kicker">Secretariat Message</p>
+        <h2>Welcome to VVMUN.</h2>
+        <p>At VVMUN, diplomacy is treated as a discipline: thoughtful, demanding, and deeply human. We invite every delegate to arrive prepared, listen carefully, argue with integrity, and leave with a stronger understanding of the world they hope to shape.</p>
+        <p class="signature">The Secretariat<br>Vikram Vichar Model United Nations</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div>
+      <img src="images/vvmun-logo.png" alt="VVMUN Logo">
+      <p>Vikram Vichar Model United Nations</p>
+    </div>
+    <div>
+      <a href="https://www.instagram.com/vvmun_26" target="_blank" rel="noreferrer">@vvmun_26</a>
+      <span>Ujjain Engineering College</span>
+      <a href="contact.html">Contact Desk</a>
+    </div>
+  </footer>
+
+  <div class="achievement" id="achievement">Achievement Unlocked: Future Secretary General</div>
+
+  <script src="js/data.js?v=8"></script>
+  <script src="js/committee.js?v=8"></script>
+</body>
+</html>

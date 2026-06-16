@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#2B1300"/><stop offset=".62" stop-color="#8B3E00"/><stop offset="1" stop-color="#D9B382"/></linearGradient></defs>
+  <rect width="1200" height="760" fill="url(#g)"/>
+  <g fill="none" stroke="#FFF5E6" opacity=".28">
+    <circle cx="600" cy="380" r="190" stroke-width="4"/>
+    <circle cx="600" cy="380" r="112" stroke-width="2"/>
+    <path d="M165 565C300 394 445 302 600 302s300 92 435 263M220 210c130 80 257 119 380 119s250-39 380-119" stroke-width="3"/>
+    <path d="M600 135v490M355 380h490" stroke-width="3"/>
+  </g>
+  <text x="72" y="116" fill="#D9B382" font-family="Georgia, serif" font-size="58" font-weight="700">UNSC</text>
+  <text x="72" y="185" fill="#FFF5E6" font-family="Arial, sans-serif" font-size="30">Global Cyber Warfare</text>
+</svg>
