@@ -173,7 +173,6 @@ const ebMembers = [
     funBio: "Breaking news yahi milega; baaki sab PR hai."
   },
   {
-    i{
     id: "aranya-nagar",
     committee: "ipl",
     name: "Aranya Nagar",
@@ -183,7 +182,7 @@ const ebMembers = [
     achievements: "VO-Auctioneer, IPL, VVMUN.",
     funBio: "Kyu nahi ho rahi padhai? Auction mein player kharidne hain."
 }
-  }
+  
 ];
 
 const getCommitteeById = (id) => committees.find((committee) => committee.id === id);
