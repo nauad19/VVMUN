@@ -1,11 +1,39 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
-  <rect width="1200" height="760" fill="#8B3E00"/>
-  <g fill="none" stroke="#FFF5E6" opacity=".25">
-    <path d="M220 560c95-165 221-248 380-248s285 83 380 248" stroke-width="20"/>
-    <path d="M290 560c80-116 183-174 310-174s230 58 310 174" stroke-width="12"/>
-    <path d="M370 560c62-67 139-101 230-101s168 34 230 101" stroke-width="7"/>
-  </g>
-  <g fill="#D9B382" opacity=".72"><rect x="240" y="578" width="720" height="22"/><rect x="560" y="230" width="80" height="250" rx="8"/></g>
-  <text x="72" y="116" fill="#D9B382" font-family="Georgia, serif" font-size="58" font-weight="700">Lok Sabha</text>
-  <text x="72" y="185" fill="#FFF5E6" font-family="Arial, sans-serif" font-size="30">Digital Privacy and Citizen Rights</text>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop stop-color="#2B1300"/>
+      <stop offset=".6" stop-color="#8B3E00"/>
+      <stop offset="1" stop-color="#D9B382"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="760" fill="url(#g)"/>
+
+  <!-- Cricket Ball -->
+  <circle cx="850" cy="350" r="120" fill="none" stroke="#FFF5E6" stroke-width="6" opacity=".4"/>
+  <path d="M790 260 Q850 350 790 440" stroke="#FFF5E6" stroke-width="4" fill="none" opacity=".6"/>
+  <path d="M910 260 Q850 350 910 440" stroke="#FFF5E6" stroke-width="4" fill="none" opacity=".6"/>
+
+  <!-- Bat -->
+  <rect x="300" y="250" width="60" height="260" rx="8" fill="#D9B382" opacity=".7"/>
+  <rect x="320" y="500" width="20" height="120" fill="#D9B382" opacity=".7"/>
+
+  <!-- Decorative Lines -->
+  <line x1="200" y1="600" x2="1000" y2="600" stroke="#FFF5E6" opacity=".2" stroke-width="4"/>
+  <line x1="200" y1="620" x2="1000" y2="620" stroke="#FFF5E6" opacity=".1" stroke-width="2"/>
+
+  <text x="72" y="116"
+        fill="#D9B382"
+        font-family="Georgia, serif"
+        font-size="58"
+        font-weight="700">
+    IPL
+  </text>
+
+  <text x="72" y="185"
+        fill="#FFF5E6"
+        font-family="Arial, sans-serif"
+        font-size="30">
+    IPL Auction 2026
+  </text>
 </svg>
