@@ -6,6 +6,6 @@
     <path d="M390 305c0-88 71-159 159-159s159 71 159 159-71 159-159 159-159-71-159-159z"/>
     <path d="M549 146v318M390 305h318M430 210c80 55 159 55 238 0M430 400c80-55 159-55 238 0"/>
   </g>
-  <text x="72" y="116" fill="#D9B382" font-family="Georgia, serif" font-size="58" font-weight="700">UNHRC</text>
-  <text x="72" y="185" fill="#FFF5E6" font-family="Arial, sans-serif" font-size="30">Human Rights in Conflict Zones</text>
+  <text x="72" y="116" fill="#D9B382" font-family="Georgia, serif" font-size="58" font-weight="700">IP</text>
+  <text x="72" y="185" fill="#FFF5E6" font-family="Arial, sans-serif" font-size="30">International Press</text>
 </svg>

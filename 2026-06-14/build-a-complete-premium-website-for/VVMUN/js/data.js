@@ -176,10 +176,10 @@ const ebMembers = [
     id: "siddhi-sharma",
     committee: "ipl",
     name: "Siddhi Sharma",
-    position: "IPL Co Auctionor",
+    position: "IPL Co Auctioneer",
     photo: "images/eb-members/siddhi-sharma.png",
     experience: "Siddhi manages IPL co-auction flow, bidding facilitation, and the kind of orderly pressure that makes strategy visible.",
-    achievements: "Co Auctionor, IPL, VVMUN.",
+    achievements: "Co Auctioneer, IPL, VVMUN.",
     funBio: "Kyu nahi ho rahi padhai? Because the auction room has entered a procedural crisis."
   }
 ];
