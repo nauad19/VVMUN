@@ -181,7 +181,7 @@ const ebMembers = [
     experience: "Aranya brings energy, strategy, and competitive spirit to the IPL auction room.",
     achievements: "VO-Auctioneer, IPL, VVMUN.",
     funBio: "Kyu nahi ho rahi padhai? Auction mein player kharidne hain."
-}
+  }
   
 ];
 
