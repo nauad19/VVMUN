@@ -173,14 +173,16 @@ const ebMembers = [
     funBio: "Breaking news yahi milega; baaki sab PR hai."
   },
   {
-    id: "siddhi-sharma",
+    i{
+    id: "aranya-nagar",
     committee: "ipl",
-    name: "Siddhi Sharma",
-    position: "IPL Co Auctioneer",
+    name: "Aranya Nagar",
+    position: "IPL (VO-Auctioneer)",
     photo: "images/eb-members/siddhi-sharma.png",
-    experience: "Siddhi manages IPL co-auction flow, bidding facilitation, and the kind of orderly pressure that makes strategy visible.",
-    achievements: "Co Auctioneer, IPL, VVMUN.",
-    funBio: "Kyu nahi ho rahi padhai? Because the auction room has entered a procedural crisis."
+    experience: "Aranya brings energy, strategy, and competitive spirit to the IPL auction room.",
+    achievements: "VO-Auctioneer, IPL, VVMUN.",
+    funBio: "Kyu nahi ho rahi padhai? Auction mein player kharidne hain."
+}
   }
 ];
 
